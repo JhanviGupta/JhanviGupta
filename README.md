@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @JhanviGupta
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ReactJS
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in Developing
+- 💞️ I’m looking to collaborate with Freelancers
 
 <!---
 JhanviGupta/JhanviGupta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
